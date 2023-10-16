@@ -1,0 +1,26 @@
+body
+{
+    background-color:rgb(146, 222, 245);
+}
+
+h1
+{
+    color:blue;
+    background-color:white;
+}
+
+#show_sketch
+{
+    float:right;
+}
+
+canvas
+{
+    border:7px solid black;
+    border-radius:22px;
+    animation-name:example;
+    animation-duration:2s;
+    margin-top:50px;
+    animation-iteration-count:infinite;
+}
+
